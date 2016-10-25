@@ -1,0 +1,32 @@
+body {background-image: URL("tennisball.jpg");
+      background-repeat: no-repeat;
+      background-size: 120%;
+}
+.nav {background-color:yellow;
+      padding-left: 20px;
+      margin-left: 120px;
+      margin-right:0px;
+      height: 500px;
+      padding: 20px;
+      padding-top: 10px;
+      max-width: 140px;
+      width: 140px
+    }
+.margin-left {margin-left:120px}
+.text {background-color:rgb(255, 255, 192);
+       margin-right: 30px;
+       max-width: 960px;
+       float: right;
+       padding: 20px
+}
+.bild {float: right;
+       margin-right: 540px
+
+
+}
+a:visited {
+          color:darkblue;
+}
+a {
+   text-decoration: none;
+}
