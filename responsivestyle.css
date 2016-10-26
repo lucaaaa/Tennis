@@ -48,3 +48,58 @@ a{
 
 }
 .center {text-align:center}
+@media (min-width:550px) {
+
+.nav {float:left;
+      width: 120px;
+      height: 580px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      font-size: 120%
+      }
+.karte {width: 350px;height: 250px}
+.text {max-width: 430px;
+       margin-left: 140px;
+        margin-right: 60px;
+         min-height: 250px;
+        min-width: 350px;
+        font-size: 110%}
+         body {background-size: 100%}
+         a {padding: 10px}
+}
+@media (min-width:1280px)
+{
+.nav {background-color:yellow;
+      padding-left: 20px;
+      margin-left: 120px;
+      margin-right:0px;
+      height: 475px;
+      padding: 20px;
+      padding-top: 10px;
+      width:  140px;
+      float: left;
+      font-size: 140%
+     }
+     .logo  {margin-left:120px;
+            width:190px;height:191px;
+            }
+            .text {background-color:rgb(255, 255, 192);
+                   margin-right: 60px;
+                   width: 1300px;
+                   padding: 5px 0px 0px 20px;
+                   margin-left: 330px;
+                   min-height: 500px;
+                   max-width: 950px;
+                  font-size: 120%
+            }
+            .karte {width:490px;height:350px;
+                    padding-bottom: 20px;
+                    float:left;
+                    padding-right: 20px
+
+                    body {background-image: URL("tennisball.jpg");
+                          background-repeat: no-repeat;
+                          background-size: 120%;
+                    }
+
+   }
