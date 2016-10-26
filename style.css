@@ -6,21 +6,25 @@ body {background-image: URL("tennisball.jpg");
       padding-left: 20px;
       margin-left: 120px;
       margin-right:0px;
-      height: 500px;
+      height: 560px;
       padding: 20px;
       padding-top: 10px;
       max-width: 140px;
       width: 140px
-    }
-.margin-left {margin-left:120px}
+     }
+.logo  {margin-left:120px;
+       width:190px;height:191px;
+       }
 .text {background-color:rgb(255, 255, 192);
-       margin-right: 30px;
-       max-width: 960px;
+       margin-right: 60px;
+       max-width: 950px;
        float: right;
-       padding: 20px
+       padding: 20px 0px 0px 20px
+
 }
-.bild {float: right;
-       margin-right: 540px
+.karte {width:490px;height:350px;
+        padding-bottom: 20px;
+        float: left
 
 
 }
